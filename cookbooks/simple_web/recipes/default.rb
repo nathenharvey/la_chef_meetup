@@ -11,3 +11,6 @@ include_recipe 'simple_web::firewall'
 include_recipe 'simple_web::apache'
 include_recipe 'simple_web::website'
 include_recipe 'simple_web::hardening'
+
+include_recipe 'os-hardening'
+include_recipe 'ssh-hardening'

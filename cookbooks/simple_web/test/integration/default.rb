@@ -9,6 +9,10 @@ describe package('apache2') do
   it { should be_installed }
 end
 
+describe port 443 do
+  it { should be_listening }
+end
+
 describe service(apache.service) do
   it { should be_enabled }
   it { should be_running }
