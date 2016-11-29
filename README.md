@@ -4,7 +4,9 @@ Uh oh, it's time for a compliance audit! You know the drill, keep the auditor on
 
 In this talk, we'll look at one way you can move compliance controls directly into your development process. We'll explore [InSpec](http://inspec.io/), an open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements.
 
-This talk is planned for the [Los Angeles Chef Meetup](https://www.meetup.com/Los-Angeles-Chef-Users-Group/events/235764752/) on November 28, 2016.
+This talk was given at the [Los Angeles Chef Meetup](https://www.meetup.com/Los-Angeles-Chef-Users-Group/events/235764752/) on November 28, 2016.
+
+A [video of this talk is available on YouTube](https://youtu.be/bQTgdx_r_CA).
 
 ## About The Speaker
 
